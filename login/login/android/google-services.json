@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "807980835065",
+    "project_id": "topeak-bcfa5",
+    "storage_bucket": "topeak-bcfa5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:807980835065:android:dac099f40a265c84b84228",
+        "android_client_info": {
+          "package_name": "com.example.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "807980835065-tj8102nfrrok68g04h4shprlea5arf0l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzY7M6Ep8ruNWcia8OvRBC8br4IhwWtQs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "807980835065-tj8102nfrrok68g04h4shprlea5arf0l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

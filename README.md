@@ -1,5 +1,5 @@
-# Parts
-Parts is a collection of individual components that can be used by other projects. Each component is designed to be modular and easily integrable, enabling developers to quickly and easily add specific functionality to their projects.
+# FlutterBricks
+This is a collection of individual components that can be used by other projects. Each component is designed to be modular and easily integrable, enabling developers to quickly and easily add specific functionality to their projects.
 
 ## Installation
 To use any of the components in your project, simply download or clone this repository and copy the desired component(s) into your project's codebase.
